@@ -10,9 +10,11 @@ Here are some ideas to get you started: -->
 </div>
 
  <br/>
+ 
+ I am a Senior React Developer, with 9 + years of professional experience. I help companies build scalable and robust web applications with beautiful UX.
 
 ## 👨🏻‍💻 About Me:
-- I am a professional React developer with 9+ years of experience, currently working with Britive
+- I have 9+ years of professional experience as a software developer, currently working as a Senior Front-end Developer at Britive
 
 - 📚 You can read my articles at **[My Hashnode Website](https://shivayanbora.hashnode.dev/)**
 
