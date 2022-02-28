@@ -8,13 +8,11 @@ Here are some ideas to get you started: -->
   <img src ="https://pbs.twimg.com/profile_banners/266143917/1614525436/1500x500" />
   
 </div>
-
- <br/>
  
- I am a Senior React Developer, with 9 + years of professional experience. I help companies build scalable and robust web applications with beautiful UX.
+ <br/>
 
 ## 👨🏻‍💻 About Me:
-- I have 9+ years of professional experience as a software developer, currently working as a Senior Front-end Developer at Britive
+- I have 9+ years of professional experience as a software developer, currently working as a Senior Front-end Developer at Britive. Check out my [resume](https://drive.google.com/file/d/1WelTrDSC5uQajx0ie-jREbPm0134wCVk/view?usp=sharing).
 
 - 📚 You can read my articles at **[My Hashnode Website](https://shivayanbora.hashnode.dev/)**
 
