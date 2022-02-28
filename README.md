@@ -12,13 +12,13 @@ Here are some ideas to get you started: -->
  <br/>
 
 ## 👨🏻‍💻 About Me:
-- I have 9+ years of professional experience as a software developer, currently working as a Senior Front-end Developer at Britive. Check out my [resume](https://drive.google.com/file/d/1WelTrDSC5uQajx0ie-jREbPm0134wCVk/view?usp=sharing).
+- I have 9+ years of professional experience as a software developer, currently working as a Senior Front-end Developer at Britive. Check out my [resume](https://www.dropbox.com/s/t3f2c672ixagqq0/Shivayan%20Bora%20%7C%20Frontend%20React%20Developer%20%7C%209%20years.pdf?dl=0).
 
-- 📚 You can read my articles at **[My Hashnode Website](https://shivayanbora.hashnode.dev/)**
+- 📚 You can visit my Hashnode **[blog](https://shivayanbora.hashnode.dev/)** to read my latest blog posts.
 
 - 🔭 I’m currently working on `revamping the entire Britive UI as per latest standards and UX`.
 
-- 🌱 I’m currently learning `Data Structures, Algorithms` and `System Design`
+- 🌱 I’m currently learning `Data Structures, Algorithms` and `System Design`.
 
 - 💬 Ask me about anything related to Front-end development, React, Redux, JavaScript, being a professional software developer and pretty much anything under the sun. I love good engaging conversations. 😊
 
