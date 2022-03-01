@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 ## 👨🏻‍💻 About Me:
 - I have 9+ years of professional experience as a software developer, currently working as a Senior Front-end Developer at Britive. Check out my [resume](https://www.dropbox.com/s/t3f2c672ixagqq0/Shivayan%20Bora%20%7C%20Frontend%20React%20Developer%20%7C%209%20years.pdf?dl=0).
 
-- 📚 You can visit my **[blog](https://shivayanbora.hashnode.dev/)** to read my latest blog posts.
+<!-- - 📚 You can visit my **[blog](https://shivayanbora.hashnode.dev/)** to read my latest blog posts. -->
 
 - 🔭 I’m currently working on `revamping the entire Britive UI as per latest standards and UX`.
 
