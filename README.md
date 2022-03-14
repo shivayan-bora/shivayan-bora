@@ -51,9 +51,9 @@ Here are some ideas to get you started: -->
 
 <a href="https://www.buymeacoffee.com/borashivayQ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
-## 📊 My GitHub Data:
+<!-- ## 📊 My GitHub Data:
 
 <div align="center">
-<!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shivayan-bora&show_icons=true" /> -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shivayan-bora&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivayan-bora&" alt="soumyajit" />
-</div>
+</div> -->
