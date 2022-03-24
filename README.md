@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
  <br/>
 
 ## 👨🏻‍💻 About Me:
-- I have 9+ years of professional experience as a software developer, currently working as a Senior Front-end Developer at Britive. Check out my [resume](https://www.dropbox.com/s/t3f2c672ixagqq0/Shivayan%20Bora%20%7C%20Frontend%20React%20Developer%20%7C%209%20years.pdf?dl=0).
+- I have 9+ years of professional experience as a software developer, currently working as a Senior Front-end Developer at Britive. Check out my [resume](https://www.dropbox.com/s/oeqgyc1oe99r9cb/Shivayan_Anand_Bora_Senior_Frontend_Developer_ReactJS_9_Years.pdf?dl=0).
 
 <!-- - 📚 You can visit my **[blog](https://shivayanbora.hashnode.dev/)** to read my latest blog posts. -->
 
