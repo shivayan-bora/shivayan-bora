@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Shivayan Anand Bora</h1>
+<h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> I'm Shivayan Anand Bora</h1>
 
 <!--
 **shivayan-bora/shivayan-bora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
