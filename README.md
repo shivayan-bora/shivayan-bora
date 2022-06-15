@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on `revamping the entire Britive UI as per latest standards and UX`.
 
-- 🌱 I’m currently learning `Data Structures, Algorithms` and `System Design`.
+- 🌱 I’m currently learning `DevOps`, `Docker` and `Kubernetes`.
 
 - 💬 Ask me about anything related to Front-end development, React, Redux, JavaScript, being a professional software developer and pretty much anything under the sun. I love good engaging conversations. 😊
 
