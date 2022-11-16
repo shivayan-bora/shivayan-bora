@@ -12,14 +12,15 @@ Here are some ideas to get you started: -->
  <br/>
 
 ## 👨🏻‍💻 About Me:
-- I have 9+ years of professional experience as a software developer, currently working as a Senior Software Developer at UiPath. 
-<!-- - Check out my [resume](https://www.dropbox.com/s/oeqgyc1oe99r9cb/Shivayan_Anand_Bora_Senior_Frontend_Developer_ReactJS_9_Years.pdf?dl=0). -->
+- I have 10+ years of professional experience as a software developer, currently working as a Senior Software Developer at UiPath. 
 
-<!-- - 📚 You can visit my **[blog](https://shivayanbora.hashnode.dev/)** to read my latest blog posts. -->
+- Check out my **[resume](https://www.dropbox.com/s/18bjuj8rnqgn2uk/Shivayan_Bora_Senior_Software_Developer_Reactjs_10YOE.pdf?dl=0)**.
 
-<!-- - 🔭 I’m currently working on `revamping the entire Britive UI as per latest standards and UX`. -->
+- 📚 You can visit my **[blog](https://shivayanbora.hashnode.dev/)** to read my latest blog posts.
 
-- 🌱 I’m currently learning `Docker`, `Kubernetes` and `Production React Standards`.
+- 🔭 I’m currently working on `revamping the entire AI Center Frontend UI to latest React version to support Material UI v5`.
+
+- 🌱 I’m currently learning `Docker`, `Kubernetes` and `Full Stack Web Development`.
 
 - 💬 Ask me about anything related to Front-end development, React, Redux, JavaScript, being a professional software developer and pretty much anything under the sun. I love good engaging conversations. 😊
 
