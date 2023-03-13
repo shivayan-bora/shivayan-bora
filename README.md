@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
  <br/>
 
 ## 👨🏻‍💻 About Me:
-- I have 10+ years of professional experience as a software developer, currently working as a Senior Software Developer at UiPath. 
+- I have over a decade of professional experience as a software developer and currently working as a Senior Software Developer at UiPath. 
 
 - Check out my **[resume](https://www.dropbox.com/s/18bjuj8rnqgn2uk/Shivayan_Bora_Senior_Software_Developer_Reactjs_10YOE.pdf?dl=0)**.
 
