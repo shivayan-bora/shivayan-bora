@@ -6,7 +6,6 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <img src ="https://pbs.twimg.com/profile_banners/266143917/1614525436/1500x500" />
-  
 </div>
  
  <br/>
@@ -18,11 +17,9 @@ Here are some ideas to get you started: -->
 
 - 📚 You can visit my **[blog](https://shivayanbora.hashnode.dev/)** to read my latest blog posts.
 
-- 🔭 I’m currently working on `revamping the entire AI Center Frontend UI to latest React version to support Material UI v5`.
+- 🌱 I’m currently learning `DevOps`, `Azure Cloud` and `Full Stack Web Development`.
 
-- 🌱 I’m currently learning `Docker`, `Kubernetes` and `Full Stack Web Development`.
-
-- 💬 Ask me about anything related to Front-end development, React, Redux, JavaScript, being a professional software developer and pretty much anything under the sun. I love good engaging conversations. 😊
+- 💬 Ask me about anything related to Software development, DevOps, Cloud, React, Redux, Node.js, JavaScript and pretty much anything under the sun. I love engaging conversations. 😊
 
 - 👨‍💻 Life Hack: Listen to understand and not to respond. Effective listening is very underrated and it will get you very far in both your personal and professional life.
 
