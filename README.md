@@ -44,6 +44,15 @@ Here are some ideas to get you started: -->
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 </p>
 
+## My Stats:
+
+<a href="https://github.com/shivayan-bora/shivayan-bora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivayan-bora&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/shivayan-bora/shivayan-bora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivayan-bora&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ayushya's GitHub Stats" />
+</a>
+
 ## ❤️ Let's get connected:
 
 <p><a href="https://twitter.com/shivayanbora" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/shivayan-bora/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a><a href="https://www.instagram.com/shivayanbora/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
