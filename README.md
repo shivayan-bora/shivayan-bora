@@ -4,9 +4,9 @@
 **shivayan-bora/shivayan-bora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-<div align="center">
+<!--div align="center">
   <img src ="https://pbs.twimg.com/profile_banners/266143917/1614525436/1500x500" />
-</div>
+</div-->
  
  <br/>
 
