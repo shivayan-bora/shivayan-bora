@@ -6,6 +6,7 @@ Here are some ideas to get you started: -->
 
 <!--div align="center">
   <img src ="https://pbs.twimg.com/profile_banners/266143917/1614525436/1500x500" />
+  - 📚 You can visit my **[blog](https://shivayanbora.hashnode.dev/)** to read my latest blog posts.
 </div-->
  
  <br/>
@@ -14,8 +15,6 @@ Here are some ideas to get you started: -->
 - I have over a decade of professional experience as a software developer and currently working as a Senior Software Developer at UiPath. 
 
 - Check out my **[resume](https://www.dropbox.com/s/18bjuj8rnqgn2uk/Shivayan_Bora_Senior_Software_Developer_Reactjs_10YOE.pdf?dl=0)**.
-
-- 📚 You can visit my **[blog](https://shivayanbora.hashnode.dev/)** to read my latest blog posts.
 
 - 🌱 I’m currently learning `DevOps`, `Azure Cloud` and `Full Stack Web Development`.
 
