@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 ## 👨🏻‍💻 About Me:
 - I have over a decade of professional experience as a software developer and currently working as a Senior Software Developer at UiPath. 
 
-- Check out my **[resume]([https://www.dropbox.com/scl/fi/blqijs3o725ypmap2q6fa/Shivayan-Bora_Senior-Software-Engineer_React_11YOE.pdf?rlkey=8s8oloysk9hsvzi24uptrrity&st=nyjtyx0u&dl=0](https://www.dropbox.com/scl/fi/t4wsubabgpqmnwpd4onlw/Shivayan_Bora_Senior_Software_Developer_Reactjs_12YOE.pdf?rlkey=c2hriqalqrzm564ejhtzrv4sa&st=1ufkk7bf&dl=0))**.
+- Check out my **[resume](https://www.dropbox.com/scl/fi/t4wsubabgpqmnwpd4onlw/Shivayan_Bora_Senior_Software_Developer_Reactjs_12YOE.pdf?rlkey=c2hriqalqrzm564ejhtzrv4sa&st=1ufkk7bf&dl=0)**.
 
 - 🌱 I’m currently learning `Astro`, `Next.js` and `Advanced JavaScript`.
 
