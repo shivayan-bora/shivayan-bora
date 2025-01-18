@@ -16,6 +16,8 @@ Here are some ideas to get you started: -->
 
 - Check out my **[resume](https://www.dropbox.com/scl/fi/t4wsubabgpqmnwpd4onlw/Shivayan_Bora_Senior_Software_Developer_Reactjs_12YOE.pdf?rlkey=c2hriqalqrzm564ejhtzrv4sa&st=1ufkk7bf&dl=0)**.
 
+- Check out my **[blog](https://shivayanbora.hashnode.dev/)**
+
 - 🌱 I’m currently learning `Astro`, `Next.js` and `Advanced JavaScript`.
 
 - 💬 Ask me about anything related to Software development, DevOps, Cloud, React, Redux, Node.js, JavaScript and pretty much anything under the sun. I love engaging conversations. 😊
