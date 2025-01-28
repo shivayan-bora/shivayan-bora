@@ -16,9 +16,7 @@ Here are some ideas to get you started: -->
 
 - Check out my **[resume](https://www.dropbox.com/scl/fi/t4wsubabgpqmnwpd4onlw/Shivayan_Bora_Senior_Software_Developer_Reactjs_12YOE.pdf?rlkey=c2hriqalqrzm564ejhtzrv4sa&st=1ufkk7bf&dl=0)**.
 
-- Check out my **[blog](https://shivayanbora.hashnode.dev/)**
-
-- 🌱 I’m currently learning `Astro`, `Next.js` and `Advanced JavaScript`.
+- 🌱 I’m currently diving deeper into `JavaScript` and learning more about Artificial Intelligence (`AI`).
 
 - 💬 Ask me about anything related to Software development, DevOps, Cloud, React, Redux, Node.js, JavaScript and pretty much anything under the sun. I love engaging conversations. 😊
 
@@ -36,8 +34,7 @@ Here are some ideas to get you started: -->
   <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
   <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" height="25px"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<!--   <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/> -->
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25px"/>
+  <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
   <img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="25px"/>
   <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
@@ -45,6 +42,7 @@ Here are some ideas to get you started: -->
   <img alt="NeoVim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" height="25px"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="25px"/>
+  <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow" height="25px"/>
 </p>
 
 ## My Stats:
@@ -57,8 +55,20 @@ Here are some ideas to get you started: -->
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://twitter.com/shivayanbora" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/shivayan-bora/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a><a href="https://www.instagram.com/shivayanbora/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-</p>
+<div>
+  <a href="https://twitter.com/shivayanbora" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/shivayan-bora/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
+  </a>
+  <a href="https://www.instagram.com/shivayanbora/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
+  </a>
+  <a href="https://shivayanbora.hashnode.dev/" target="_blank">
+    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30px"/>
+  </a>
+</div>
 
 ## 🤝 Support Me:
 
