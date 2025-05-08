@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
  <br/>
 
 ## 👨🏻‍💻 About Me:
-- I have over a decade of professional experience as a software developer and currently working as a Senior Frontend Developer at UiPath, building Test Manager's Agentic Performance Testing Capabilities with AI driven configuration creation and insights. 
+- I have over a decade of professional experience as a frontend engineer and currently working as a Senior Software Developer at UiPath, building Test Manager's Agentic Performance Testing Capabilities with AI driven configuration creation and insights. 
 
 - Check out my **[resume](https://www.dropbox.com/scl/fi/eihbdsb0c4evi8f9uf733/Shivayan-Bora-Senior-Frontend-Engineer-ReactJS-12YOE.pdf?rlkey=kqsbpxob0ijxn1nnarty44ako&st=cw50vaxn&dl=0)**.
 
