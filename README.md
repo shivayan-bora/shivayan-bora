@@ -12,13 +12,13 @@ Here are some ideas to get you started: -->
  <br/>
 
 ## 👨🏻‍💻 About Me:
-- I have over a decade of professional experience as a software developer and currently working as a Senior Software Developer at UiPath. 
+- I have over a decade of professional experience as a software developer and currently working as a Senior Frontend Developer at UiPath, building Test Manager's Agentic Performance Testing Capabilities with AI driven configuration creation and insights. 
 
-- Check out my **[resume](https://www.dropbox.com/scl/fi/eihbdsb0c4evi8f9uf733/Shivayan-Bora-Senior-Frontend-Engineer-ReactJS-12YOE.pdf?rlkey=kqsbpxob0ijxn1nnarty44ako&st=mr6cbokp&dl=0)**.
+- Check out my **[resume](https://www.dropbox.com/scl/fi/eihbdsb0c4evi8f9uf733/Shivayan-Bora-Senior-Frontend-Engineer-ReactJS-12YOE.pdf?rlkey=kqsbpxob0ijxn1nnarty44ako&st=cw50vaxn&dl=0)**.
 
-- 🌱 I’m currently diving deeper into `JavaScript` and learning more about Artificial Intelligence (`AI`).
+- 🌱 I’m currently diving deeper into `JavaScript` and learning more about Generative AI.
 
-- 💬 Ask me about anything related to Software development, DevOps, Cloud, React, Redux, Node.js, JavaScript and pretty much anything under the sun. I love engaging conversations. 😊
+- 💬 Ask me about anything related to Frontend Web Development, React.js, TypeScript, JavaScript, Generative AI or pretty much anything under the sun. I love engaging conversations. 😊
 
 - 👨‍💻 Life Hack: Listen to understand and not to respond. Effective listening is very underrated and it will get you very far in both your personal and professional life.
 
@@ -56,18 +56,10 @@ Here are some ideas to get you started: -->
 ## ❤️ Let's get connected:
 
 <div>
-  <a href="https://twitter.com/shivayanbora" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/>
-  </a> 
-  <a href="https://www.linkedin.com/in/shivayan-bora/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
-  </a>
-  <a href="https://www.instagram.com/shivayanbora/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
-  </a>
-  <a href="https://shivayanbora.hashnode.dev/" target="_blank">
-    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30px"/>
-  </a>
+  <a href="https://twitter.com/shivayanbora" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/></a> 
+  <a href="https://www.linkedin.com/in/shivayan-bora/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
+  <a href="https://www.instagram.com/shivayanbora/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/></a>
+  <a href="https://shivayanbora.hashnode.dev/" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30px"/></a>
 </div>
 
 ## 🤝 Support Me:
