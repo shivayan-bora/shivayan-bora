@@ -49,7 +49,7 @@ Here are some ideas to get you started: -->
 <a href="https://github.com/shivayan-bora/shivayan-bora">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivayan-bora&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shivayan's GitHub Stats" />
 </a>
-<!-- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64b121645f038d81eeb29692?variant=dark&roadmaps=system-design%2Csoftware-design-architecture%2Cnodejs%2Cfrontend" alt="roadmap.sh"/></a> -->
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64b121645f038d81eeb29692?variant=dark&roadmaps=frontend%2Cbackend%2Csystem-design%2Csoftware-design-architecture" alt="roadmap.sh"/></a>
 
 ## ❤️ Let's get connected:
 
