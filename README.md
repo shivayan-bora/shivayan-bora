@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
   
 - You can visit my **[blog](https://shivayanbora.hashnode.dev/)** to read my latest blog posts.
 
-- Check out my **[resume](https://www.dropbox.com/scl/fi/eihbdsb0c4evi8f9uf733/Shivayan-Bora-Senior-Frontend-Engineer-ReactJS-12YOE.pdf?rlkey=kqsbpxob0ijxn1nnarty44ako&st=cw50vaxn&dl=0)**.
+- Check out my **[resume](https://www.dropbox.com/scl/fi/c809msavkgmnikb7iu6g5/Shivayan_Bora-Senior_Software_Engineer-Frontend_Developer-13_YOE.pdf?rlkey=annz24ouyt2mody8loyq0ss4n&st=skdmpz9k&dl=0)**.
 
 - I’m currently diving deeper into low level programming and learning more about Generative AI.
 
